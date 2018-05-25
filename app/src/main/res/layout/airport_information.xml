@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/thai_airways">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/airport_info_airport_header"
+            style="@style/AirportInformationHeaders"
+            android:text="@string/airport_info_airports_header" />
+
+        <TextView
+            android:id="@+id/airport_info_airports_text"
+            style="@style/AllInformationText"
+            android:layout_below="@+id/airport_info_airport_header"
+            android:text="@string/airport_info_airport_text" />
+
+        <TextView
+            android:id="@+id/airport_info_taxi_header"
+            style="@style/AirportInformationHeaders"
+            android:layout_below="@id/airport_info_airports_text"
+            android:text="@string/airport_info_taxi_header" />
+
+        <TextView
+            android:id="@+id/airport_info_taxi_text"
+            style="@style/AllInformationText"
+            android:layout_below="@+id/airport_info_taxi_header"
+            android:text="@string/airport_info_taxi_text" />
+
+        <TextView
+            android:id="@+id/airport_info_bus_header"
+            style="@style/AirportInformationHeaders"
+            android:layout_below="@+id/airport_info_taxi_text"
+            android:text="@string/airport_info_bus_header" />
+
+        <TextView
+            android:id="@+id/airport_info_bus_text"
+            style="@style/AllInformationText"
+            android:layout_below="@+id/airport_info_bus_header"
+            android:text="@string/airport_info_bus_text" />
+
+    </RelativeLayout>
+</ScrollView>

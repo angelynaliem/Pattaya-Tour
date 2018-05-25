@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <group
+        android:id="@+id/getting_here_group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_getting_here"
+            android:icon="@drawable/ic_getting_here"
+            android:title="@string/get_here" />
+    </group>
+
+    <group
+        android:id="@+id/shopping_group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_shopping"
+            android:icon="@drawable/ic_shopping"
+            android:title="@string/shopping" />
+    </group>
+
+    <group
+        android:id="@+id/lodging_group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_lodging"
+            android:icon="@drawable/ic_accommodations"
+            android:title="@string/accommodations" />
+    </group>
+
+    <group
+        android:id="@+id/family_group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_family_activities"
+            android:icon="@drawable/ic_family_activities"
+            android:title="@string/family_activity" />
+    </group>
+
+    <group
+        android:id="@+id/adult_group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_adult_activities"
+            android:icon="@drawable/ic_adult_activities"
+            android:title="@string/adult_activity" />
+
+    </group>
+</menu>

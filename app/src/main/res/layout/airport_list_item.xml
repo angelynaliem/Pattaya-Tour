@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height_travel"
+    android:background="@android:color/black"
+    android:minHeight="@dimen/list_item_height_travel"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/airport_list_image_view"
+        style="@style/airport_list_item_image" />
+
+    <RelativeLayout
+        android:id="@+id/airport_text_container"
+        style="@style/airport_text_container">
+
+        <TextView
+            android:id="@+id/airport_airport_text_view"
+            style="@style/airport_list_item_text_airport" />
+
+        <TextView
+            android:id="@+id/airport_city_text_view"
+            style="@style/airport_list_item_text_city" />
+
+        <TextView
+            android:id="@+id/airport_web_site_text_view"
+            style="@style/airport_list_item_web_site" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

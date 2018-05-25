@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shopping_text_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/black"
+    android:minHeight="@dimen/list_item_height_travel"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/shopping_center_text_view"
+        style="@style/ShoppingTextView"
+        android:text="@string/shopping_center" />
+
+    <TextView
+        android:id="@+id/shopping_location_text_view"
+        style="@style/ShoppingTextView"
+        android:layout_below="@id/shopping_center_text_view"
+        android:text="@string/shopping_location" />
+
+    <TextView
+        android:id="@+id/shopping_description_text_view"
+        style="@style/ShoppingTextView"
+        android:layout_below="@id/shopping_location_text_view"
+        android:text="@string/shopping_description" />
+
+    <ImageView
+        android:id="@+id/shopping_image_view"
+        android:contentDescription="@string/shopping"
+        style="@style/ShoppingImageView"
+        android:layout_below="@id/shopping_description_text_view" />
+
+</RelativeLayout>

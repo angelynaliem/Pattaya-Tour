@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFEB3B</color>
+
+    <!-- Color for the Airport Fragment -->
+    <color name="airportFragment">#E57373</color>
+    <color name="taxiFragment">#FFF176</color>
+    <color name="busFragment">#81C784</color>
+
+    <!-- Tab name color -->
+    <color name="tab_name">#F44336</color>
+
+    <!-- Warning label -->
+    <color name="warning_label">#B71C1C</color>
+
+    <!-- Airport information -->
+    <color name="airport_info_header">#009688</color>
+    <color name="airport_info_text">#000000</color>
+
+    <!-- Adult -->
+    <color name="adult_info">#00BCD4</color>
+    <color name="adult_text">#FFFFFF</color>
+</resources>

@@ -1,0 +1,375 @@
+<resources>
+    <string name="app_name">Pattaya Tour</string>
+
+    <!-- Labels for the drawer items -->
+    <string name="welcome">Welcome</string>
+    <string name="get_here">Getting Here</string>
+    <string name="shopping">Shopping</string>
+    <string name="accommodations">Lodging</string>
+    <string name="family_activity">Family Fun</string>
+    <string name="adult_activity">Adult Fun</string>
+    <string name="nav_header">Pattaya Thailand</string>
+
+    <!-- Info tab for all categories -->
+    <string name="information">Info</string>
+
+    <!-- Welcome message -->
+    <string name="welcome_message">Welcome to Thailand, the Land of Smiles.\n
+        \nWe will be going on an adventure to Pattaya City, located in the
+        Chonburi Province south of Bangkok. \n \nSo buckle up it\'s going
+        to be a wild ride, or something like that.</string>
+
+    <!-- Welcome string activity_main -->
+    <string name="welcome_thai">ยินดีต้อนรับ</string>
+    <string name="welcome_english">(Welcome)</string>
+
+    <!-- Welcome Warning -->
+    <string name="warning_warning">Warning!!!</string>
+
+    <!-- Warning message for Adult Section -->
+    <string name="warning">The Adult Fun section is information on Pattaya\'s sex industry. This may not be for everyone. So, if
+    you\'re homophobic or just a frigid person in general you might want to avoid this section. Otherwise ENJOY!!!</string>
+
+    <!-- Airport Tabs -->
+    <string name="airport">Airport</string>
+    <string name="taxis">Taxi</string>
+    <string name="bus">Bus</string>
+
+    <!-- AirportPageAdapter -->
+    <string name="city">City</string>
+    <string name="web_site">Web Site</string>
+
+    <!-- Airports -->
+    <string name="suvarnabhumi">Suvarnabhumi</string>
+    <string name="donmueang">Don Mueang</string>
+    <string name="utapao">Utapao</string>
+    <string name="all_airports">All Airports</string>
+
+    <!-- Airport Cities -->
+    <string name="bangkok">Bangkok</string>
+    <string name="rayong">Rayong</string>
+
+    <!-- Airport Bus -->
+    <string name="bell_travel">Bell Travel</string>
+    <string name="bus_ekamai">Ekamai Terminal</string>
+
+    <!-- Airport Taxis -->
+    <string name="bangkok_taxi">Bangkok Taxi24</string>
+    <string name="smile_taxi">Smile Taxi Service</string>
+
+    <!--  Airport Web Sites -->
+    <string name="web_utapao">http://www.utapao.com</string>
+    <string name="web_airports_bkk">http://www.airportthai.co.th</string>
+    <string name="web_bell_travel">http://www.belltravelservice.com</string>
+    <string name="web_ekamai">http://www.busonlineticket.co.th</string>
+    <string name="web_smile_taxi">http://www.smiletaxiservice.com</string>
+    <string name="web_bkk_taxi">http://huahin.bangkoktaxi24.com</string>
+
+    <!-- Airport information message headers -->
+    <string name="airport_info_airports_header">Airports:</string>
+    <string name="airport_info_taxi_header">Taxis:</string>
+    <string name="airport_info_bus_header">Buses:</string>
+
+    <string name="airport_info_airport_text">Suvarnabuhmi is Thailands biggest and main airport. It is located on the
+    south end of Bangkok going towards Pattaya, which is convenient for our purpose. \n\n I have never had any issues coming
+    through any of the airports on the list. If you have your arrival card filled out in advance, then you should not have
+    any problems. Customs is also a breeze, if you aren\'t an idiot. \n\nWhat I really like about Suvarnabuhmi is that all
+    transportation is easy to get to. For taxis and buses, just go down to level 1 from the arrivals level (level 2), and
+    there they are. \nI don\'t know a whole lot about the other airports because I never took a taxi or a bus from either
+    one. However, the buses and taxis are pretty much the same everywhere in Thailand.</string>
+
+    <string name="airport_info_taxi_text">From level 1 you can get a taxi to Pattaya or the Ekamai Bus Terminal. There are taxis,
+    vip limos and vans to choose from. It all depends on your budget. \n\nIt all depends on what kind of time you have and what
+    your budget is. A taxi to Pattaya from Suvarnabuhmi will cost about 1,500 baht. One from Don Mueang will cost about 2,000
+    baht. and one from Utapao will cost around 1,000 baht.</string>
+
+    <string name="airport_info_bus_text">You can also go down one more level and take the train into Bangkok then
+    get off at the end of the line (Phayatai Station), get on the Sky Train. Take the Sky Train to Ekamai and there\'s the bus
+    station. \n\nThe bus from the airport is about 160 baht I think, but they don\'t run 24 hours. \n\nThe Ekamai way by using the airport
+    train and Sky Train will cost about 250 baht total, however, this is the slowest route and the last bus is at 10 or 11 p.m. \n\n
+    </string>
+
+    <!-- shopping_list_item xml -->
+    <string name="shopping_center">Shopping Center</string>
+    <string name="shopping_location">Location</string>
+    <string name="shopping_description">Description</string>
+
+    <!-- Shopping Tab -->
+    <string name="shopping_tab">Shopping</string>
+
+    <!-- Shopping Centers -->
+    <string name="avenue">The Avenue Mall</string>
+    <string name="big_c_extra">Big C Extra</string>
+    <string name="central">Central Festival Mall</string>
+    <string name="central_center">Central Center Mall</string>
+    <string name="floating_market">Floating Market</string>
+    <string name="harbor_mall">Harbor Mall</string>
+    <string name="mikes">Mike Shopping Mall</string>
+    <string name="night_bazaar">Night Bazaar</string>
+    <string name="night_market">Night Market</string>
+    <string name="outlet_mall">Outlet Mall</string>
+    <string name="spacer"> </string>
+    <string name="royal_garden">Royal Garden Mall</string>
+    <string name="terminal">Terminal 21 Mall - Coming Soon</string>
+    <string name="tukcom">IT City</string>
+
+    <!-- Shopping Center Locations -->
+    <string name="second_rd">Second Road</string>
+    <string name="central_rd">Pattaya Klang</string>
+    <string name="beach_rd">Beach Road</string>
+    <string name="sukhumvit">Sukhumvit Road to Rayong</string>
+    <string name="thepprasit_rd">Thepprasit Road</string>
+    <string name="outlet_rd">Sukhumvit and Thepprasit Intersection</string>
+    <string name="pattaya_north">Pattaya North and Second Road</string>
+    <string name="pattaya_south">Pattaya South Road</string>
+
+    <!-- Shopping Information -->
+    <string name="shopping_info">There\'s a lot of shopping in and around Pattaya. We have so many malls and markets, you can
+    find pretty much anything you are looking for. Not just the malls, but there are tons of little shops that have different
+    items in them. \n\nThe markets are everywhere, depending on what day it is. There are several day markets and then you have
+    the night ones. \n\nThepprasit is probably the biggest and well known night markets. It is open on Thursday through Sunday.
+    \n\nThe malls are open everyday. Of course, nothing really opens here until 10 or 11 in the morning, so make sure to check
+    the times. \n\nIn the malls the stores are name brand and of good quality just like anywhere else in the world. Of course,
+    the same cannot be said for the smaller shops and markets. You get what you pay for. \n\nWe also have a lot of grocery stores
+    in case you are staying for a long time. We have a great bulk item store Makro. \n\nEnjoy shopping!! \n</string>
+
+    <!-- Shopping Center Descriptions -->
+    <string name="avenue_description">The Avenue has some small shops, a gym and a very well stocked grocery store Villa Market mainly
+    catering to foreigners with foreign food.</string>
+
+    <string name="big_c_extra_description">Big C Extra is comparable to a Walmart super store. They have food and other things.
+    There is also a hardware store like Home Depot, food court and restaurants.</string>
+
+    <string name="central_description">Central is the biggest mall in Pattaya at this time. It has six floors with brand name,
+    high end shopping, a bowling alley, awesome movie theatre, two floors of restaurants, a food court, banks.</string>
+
+    <string name="central_center_description">Central Center has a Big C similar to Big C Extra. It has just received a
+    makeover, and is improved. It has a movie theatre, resuarants, and stores. The Hilton sits on top of the mall.</string>
+
+    <string name="floating_description">The Floating Market is outside of town going towards Rayong. It is a big tourist
+    attraction as it hosts local made crafts and souvenirs. Plenty of resaurants too. Sometimes it\'s a bit crowded with
+    all the bus tours.</string>
+
+    <string name="harbor_description">Harbor Pattaya is finally something for kids. It has some shopping, resaurants, a food
+    court. The biggest attractions are for kids. They have Harbor Land which is a big soft play area, ice skating, wall climbing,
+    snow land, roller land, trampoline jumping, an arcade, different schools. It was a long time coming, we needed it.</string>
+
+    <string name="mike_description">Mike\'s has been around for a long time. It has some outlet type shopping. Mostly tourist
+    stuff inside. It\'s like four floors of shopping, a few places to eat. That\'s about it.</string>
+
+    <string name="night_bazaar_description">A huge area with tourist trinkets.</string>
+
+    <string name="night_market_description">The night market on Thepprasit is a big and crowded place. It has very good deals
+    on clothes. There is a whole section for food, which is very good. It\'s crowded but worth the trip.</string>
+
+    <string name="outlet_description">The Outlet Mall is next to the night market. The mall has great deals on brand name clothes,
+    shoes and some other stuff.</string>
+
+    <string name="royal_description">Royal Garden Mall is one of the oldest malls here. It has a movie theatre, resuarants,
+    shopping, and Ripley\'s. I stayed here when it was Royal Garden hotel in \'85. Hehehe</string>
+
+    <string name="terminal_description">Our soon to be newest mall. It will have plenty of shopping. Not sure what else will
+    be in there.</string>
+
+    <string name="tukcom_description">Tukcom or IT City is where you go for all your IT needs. It has everything you could
+    need. Banks, phones, lots of phones, computers, cctv cameras. There is a floor for gaming, videos, music and software for 
+    very cheap. You can get Xbox360 games for 100 baht.</string>
+
+    <!-- Shopping Web sites -->
+    <string name="avenue_web">https://pattayasanook.com/pattaya-avenue-shopping-mall/</string>
+    <string name="big_c_extra_web">https://pattayasanook.com/big-c-extra/</string>
+    <string name="central_web">http://www.centralfestival.co.th/index.php</string>
+    <string name="central_center_web">https://pattayasanook.com/central-center-pattaya/</string>
+    <string name="floating_web">http://www.pattayafloatingmarket.com/</string>
+    <string name="mikes_web">http://www.mikeshoppingmall.com/</string>
+    <string name="night_bazaar_web">http://www.pattayanightbazaar.com/</string>
+    <string name="night_market_web">https://www.tripadvisor.com/Attraction_Review-g293919-d4554040-Reviews-Thepprasit_Road_Nightmarket-Pattaya_Chonburi_Province.html</string>
+    <string name="outlet_web">http://www.outletmallthailand.com/our_branch/1</string>
+    <string name="royal_web">http://thailand-explored.com/royal-garden-plaza-pattaya/</string>
+    <string name="terminal_web">http://www.terminal21.co.th/pattaya/th/home/</string>
+    <string name="tukcom_web">https://www.facebook.com/TukcomNews</string>
+
+    <!-- Lodging and Hotels -->
+    <string name="hotel_tab">Hotels</string>
+
+    <string name="lodging_info">There are hundreds of hotels and rooms available in Pattaya. They all offer amenities that
+   you would expect from other hotel in the world. Thais are very service oriented people and take great pride in providing
+   the best quality of customer care. \n\nThere are five star hotels and cheap rooms. It all depends on what you want to do
+   and what you are here for. Pretty much all mid-range rooms offer great amenities, like a pool, safe in the room to mention
+   a few. Also most hotels have safety deposit boxes available at the front desk. \n\nI use Agoda.com to book all of my rooms.
+   I have found that you can usually add a star to most of the rooms they have listed. I have yet to have a bad time or a bad
+   room using Agoda. \n\nTip: If you are nice to the staff and ask questions and not demand, you will get better service and
+   upgrades. I worked in the hotel industry, and it\'s easy to give someone that \"attitude\" room that overlooks the garbage
+   cans. \n\nHere are a few hotels that are available. All of these are close to the beach or on the beach and in the middle
+   of the excitement. \n\nNot to worry if you don\'t make a reservation, there are plenty of rooms for walk-ins. \n\n</string>
+
+    <!-- Lodging Web Sites -->
+    <string name="hilton_web">http://www3.hilton.com/en/hotels/thailand/hilton-pattaya-BKKHPHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BKKHPHI</string>
+    <string name="hard_rock_web">http://pattaya.hardrockhotels.net/</string>
+    <string name="flipper_web">https://www.flipperhotels.com/flipper_house/</string>
+    <string name="nautical_web">http://www.nauticalinn.co.th/home/index.php?lang=en</string>
+    <string name="queen_vic_web">http://www.queenvicpattaya.com/</string>
+
+    <!-- Family Activity -->
+    <string name="family_tab">Family</string>
+    <string name="family_activity_activity">Activity</string>
+    <string name="family_location">Activity Location</string>
+    <string name="family_description">Activity Description</string>
+
+    <string name="family_info">There’s a lot of activities for families to do in and around Pattaya. We have indoor and outdoor
+    activities the whole family can enjoy. There\'s something for everyone in the family, from water parks to elephant rides.
+    Pattaya and the Chonburi province have some of the most interesting and unique attractions for families to visit. \n\nThere
+    is always something going on in Pattaya. There are a couple marathons during the year, a huge music festival and fireworks
+    competition held every year. Not to mention our Songkran Festival runs after the rest of the country and is very popular with
+    locals and tourists alike. \n\nIn addition to the mainland tourist attractions, there are 10 islands not to be missed:
+    \nKoh Larn (Coral Island) \nKoh Phai \nKoh Si Chang \nKoh Samet \nKoh Sak \nKoh Rin \nKoh Krok \nKoh Talu
+    \nKoh Khram \nand Koh Klet Kaew (The Monkey Island) \n\nSo no matter what you want to do, I\'m sure there is something here
+    for the whole family to enjoy. \n\n</string>
+
+    <!-- Family Activity Activities -->
+    <string name="cartoon_activity">Cartoon Network Amazone</string>
+    <string name="elephant_activity">Elephant Village</string>
+    <string name="gocart_activity">Go Cart Racing</string>
+    <string name="harbor_activity">Harbor Land</string>
+    <string name="khao_kheow_activity">Khao Kheow Open Zoo</string>
+    <string name="nong_nooch_activity">Nong Nooch Gardens</string>
+    <string name="parasail_activity">Parasailing</string>
+    <string name="ramanyana_activity">Ramanyana Water Park</string>
+    <string name="sanctuary_activity">Sanctuary of Truth</string>
+    <string name="tiger_activity">SriRacha Tiger Zoo</string>
+
+    <!-- Family Activities Locations -->
+    <string name="cartoon_location">15 kilometers from Pattaya</string>
+    <string name="elephant_location">About 20 minutes from Pattaya</string>
+    <string name="gocart_location">Thepprasit Road Pattaya</string>
+    <string name="harbor_location">Inside Harbor Mall on Central Pattaya</string>
+    <string name="khao_kheow_location">About an hour from Pattaya</string>
+    <string name="nong_nooch_location">16 kilometers from Pattaya</string>
+    <string name="parasail_location">Beach Road Pattay</string>
+    <string name="ramanyana_location">20 kilometers from Pattaya</string>
+    <string name="sanctuary_location">Bang Lamung Pattaya</string>
+    <string name="tiger_location">About 30 minutes from Pattaya</string>
+
+    <string name="cartoon_description">Cartoon Network Amazone is centered around the Cartoon Network with it\'s
+    characters. The water park is nice and there are a lot of slides there. The kids area is nice and big, good for little kids.
+    It is a little pricey though. It\'s an all day event.</string>
+
+    <string name="elephant_description">Elephant Village is a nice place to visit. It is also an elephant sanctuary. Go visit
+    their web site. It is something you don\'t want to miss.</string>
+
+    <string name="gocart_description">The go carts are good fun. Of course, it is for the older kids and not really the young ones.
+    There are more than one go cart track here so it\'s not boring with the same track.</string>
+
+    <string name="harbor_family_description">Harbor Pattaya is a great place for kids of all ages. It\'s right in town and very
+    accessible. They have ice skating, roller skating, wall climbing, trampolines and of course the big padded Harbor Land.
+    It was great to see it open, there wasn\'t much for kids before.</string>
+
+    <string name="khao_kheow_description">The Khao Kheow open zoo is great fun. This is a little ways from Pattaya, but it\'s
+    worth the trip. It\'s an open zoo, so you have to drive around or walk a lot. Don\'t worry, there is transportation
+    available in the zoo. It\' an all day event.</string>
+
+    <string name="nong_nooch_description">Nong Nooch Gardens is a fun place to go. They have different shows and you can ride
+    an elephant there if you want to. There are several tours going there, or you can go on your own. It\'s an all day event.
+    </string>
+
+    <string name="parasail_description">Parasailing is all over the beach. You just have to go out to the beach in the morning
+    and you\'ll see all the people waiting to take you out to parasail. You can see several people doing it from the beach every
+    morning. It\'s n early morning thing. It\'s in town and close to convenient.</string>
+
+    <string name="ramanyana_description">Rmanyana is the newest water park in Thailand. It is big and has a lot of slides. It is
+    a little journey from town though. But not to worry there are plenty of cars and buses going out there. It is in the
+    Silver Lake area which has the Big Golden Buddha on the mountain, a winery and other stuff. This is an all day event.</string>
+
+    <string name="sanctuary_description">The Sanctuary of Truth is a wonderful temple. This was and is still being built all by
+    hand. There are several craftsmen working on different projects. They do not use any power tools to carve the pieces and they
+    are all joined together with special cuts and workmanship. No power tools an no nails used in the construction. This is a
+    must see. It\'s in town so it\'s close.</string>
+
+    <string name="tiger_description">The Sriracha Tiger Zoo is a nice place. They have several shows with tigers, elephants and
+    crocodiles. It\'s a pretty big park, so a lot of walking. This is also an all day event.</string>
+
+    <!-- Family Web Sites -->
+    <string name="cartoon_web">https://www.cartoonnetworkamazone.com/</string>
+    <string name="elephant_web">http://www.elephant-village-pattaya.com/</string>
+    <string name="gocart_web">http://www.pattayakart.com/en/</string>
+    <string name="harbor_web">https://www.harborpattaya.com/</string>
+    <string name="khao_kheow_web">http://www.khaokheow.zoothailand.org/</string>
+    <string name="non_nooch_web">http://www.nongnoochtropicalgarden.com/</string>
+    <string name="parasailing_web">http://pattayaguide.org/pattaya-parasailing-pattaya-guide</string>
+    <string name="ramanyana_web">https://www.ramayanawaterpark.com/</string>
+    <string name="sanctuary_web">http://www.sanctuaryoftruth.com/</string>
+    <string name="tiger_zoo_web">http://www.tigerzoo.com/eng/</string>
+
+    <!-- Adult Tabs -->
+    <string name="soi">Soi</string>
+    <string name="penthouse">Penthouse</string>
+    <string name="lgbt">LGBT</string>
+
+    <!-- All Adult Information Tab -->
+    <string name="adult_info_header">What Happens Here Stays Here</string>
+
+    <string name="adult_information">Let\'s be honest. Sex sells, everything from candy to cars. \n\nThis will be a journey
+    through Pattaya\'s thriving adult entertainment playground. \n\nGet ready to be offended or learn something new about yourself. As
+    the girls say, \"You never know if you never try.\" \n\nA few things you need to think about before we begin. This is Thailand,
+    not your country. So, what\'s acceptable here may not be acceptable there and vice versa. Most foreigners don\'t understand Asia
+    and Asian culture until you\'ve experienced it first hand. Sex is a business for them and they treat it that way. \n\nLadyboys
+    - Let\'s talk about Thailand\'s third gender: Ladyboys. Ladyboys can be found in every facet of Thai society. \n\nA Ladyboy
+    is a transexual male who is either pre-op or post-op, it doesn\'t matter, they are still referred to as she or her. \nIt\'s
+    not always easy to tell a Ladyboy from a Girl-Girl. If she\'s too beautiful, then she\'s probably a Ladyboy.
+    \n\nWalking Street - Walking street is one of the biggest attractions in Pattaya.
+    It\'s located at the south end of Beach Rd., and is closed to vehicle traffic at 7 p.m. every night because it comes alive
+    at night. \n\nIt has go-go bars, discos, restaurants, hotels and everything else you may be looking for. \n\nOf course if you\'re
+    really feeling dirty, you can always go get a soapy massage. \n\n\"The bars are temples but the pearls \nain\'t free - You\'ll
+    find a god in every golden cloister - And if you\'re lucky then the god\'s a she - I can feel an angel sliding up to me\"
+    \nOne Night in Bangkok - Murray Head.\n\n</string>
+
+    <!-- Adult Activities -->
+    <string name="soi_six">Soi 6</string>
+    <string name="soi_seven">Soi 7</string>
+    <string name="soi_eight">Soi 8</string>
+    <string name="soi_bukhao">Soi Bukhao</string>
+    <string name="soi_walking_street">Walking Street</string>
+    <string name="boyz_town">Boyz Town</string>
+    <string name="penthouse_hotel">Penthouse Hotel</string>
+    <string name="adult_soi_text_view">Soi</string>
+    <string name="adult_sexes_text_view">Sexes</string>
+    <string name="adult_description_text_view">Description</string>
+    <string name="sexes_one">Workers: Ladies - Ladyboys</string>
+    <string name="sexes_two">Workers: Ladies - Ladyboys - Gay Men</string>
+    <string name="sexes_three">Workers: Men - Gay Men</string>
+    <string name="ladyboys">Ladyboys</string>
+    <string name="everywhere">Located Everywhere</string>
+    <string name="tiffany">Tiffany\'s</string>
+    <string name="tiffany_caberet">Ladyboy Caberet</string>
+
+    <!-- Adult Fun Soi Descriptions -->
+    <string name="soi_six_description">There are a lot of girl-girl bars as well as a number of Ladyboy bars. Typically,
+    the girls working here are \"Farm Fresh\" and still have mud between their toes. They are still learning. Then they
+    will go over to another Soi, a Beer Garden or Walking Street. This is known as a short time Soi and most bars have rooms
+    upstairs.</string>
+
+    <string name="other_sois">General Soi. They have open air beer bars, some go-go bars.</string>
+    <string name="soi_boyz_description">This has a lot of gay bars as well as straight bars for the ladies.</string>
+    <string name="walking_street_description">This is the major tourist area. There is something for everyone\'s taste.
+    You can find go-go bars, discos, Ladyboys, girls, foreign girls, gay men, lesbians, couples, groups. Pretty much whatever you\'re
+    looking for and can afford, you can find it here.</string>
+
+    <!-- Penthouse description -->
+    <string name="penthouse_description">The Penthouse is a boutique hotel that caters to all. It exists so you can live out
+    your greatest desires or fantasies. It sits across from Boyz Town and just down the street from Walking Street. This hotel
+    has a joiner fee, but only after the first two people. This means you can bring back two people, any gender
+    and there is no charge, if you bring three, there is a 500 baht charge for the third person and so on. It\'s an awesome hotel.
+    It has a cave design, and very sound proof, you don\'t hear any of your neighbors. \n</string>
+
+    <!-- Adult Websites -->
+    <string name="walking_street_web">http://www.bangkok.com/pattaya/nightlife/walking-street-back-up.htm</string>
+    <string name="soi_six_web">https://soi-6.com/s/bars/bars-part-1/</string>
+    <string name="soi_seven_web">https://lovepattayathailand.com/soi-7-pattaya/</string>
+    <string name="soi_eight_web">http://pattayaguide.org/soi-7-and-8-pattaya</string>
+    <string name="penthouse_web">https://www.penthousehotel.com/</string>
+    <string name="tiffany_web">http://www.tiffany-show.co.th/</string>
+    <string name="boyztown_web">http://gaybuttonthai.com/viewtopic.php?t=5908</string>
+    <string name="ladyboy_web">https://katoeys-are-us.com/</string>
+    <string name="soi_bhukhao_web">http://www.pattaya-adventures.com/soi-buakhao.html</string>
+
+</resources>
